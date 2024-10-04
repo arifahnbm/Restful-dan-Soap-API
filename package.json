@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.0"
+  },
+  "name": "restful-dan-soap-api",
+  "version": "1.0.0",
+  "description": "Hasil dari mengambil dan menampilkan data dari API JSONPlaceholder\r ![](image/01.png)",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
